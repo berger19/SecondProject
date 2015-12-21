@@ -1,11 +1,8 @@
-public class hello {
+public class Hello {
 	public static void main(String[] args)
 	{
 	System.out.println("hello git");
 	System.out.println("What is git?");
-<<<<<<< HEAD
-=======
 	System.out.println("What is java?");
->>>>>>> sist1
 	}
 	}
